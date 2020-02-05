@@ -1,0 +1,11 @@
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\bin\Debug\netcoreapp2.2\C_Sharp_HungryNinja.deps.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\bin\Debug\netcoreapp2.2\C_Sharp_HungryNinja.runtimeconfig.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\bin\Debug\netcoreapp2.2\C_Sharp_HungryNinja.runtimeconfig.dev.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\bin\Debug\netcoreapp2.2\C_Sharp_HungryNinja.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\bin\Debug\netcoreapp2.2\C_Sharp_HungryNinja.pdb
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.csprojAssemblyReference.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.csproj.CoreCompileInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.AssemblyInfoInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.AssemblyInfo.cs
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\C_Sharp_Assignments\C_Sharp_HungryNinja\obj\Debug\netcoreapp2.2\C_Sharp_HungryNinja.pdb
